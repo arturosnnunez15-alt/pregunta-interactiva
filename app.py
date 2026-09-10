@@ -76,7 +76,7 @@ HTML_CODE = """
             
             setTimeout(() => {
                 // Abre WhatsApp con el mensaje listo para enviarte
-                window.location.href = "https://wa.me/595984450800?text=%C2%A1Confieso%20que%20s%C3%AD%20estoy%20pensando%20en%20vos!%20%F0%9F%92%96";
+                window.location.href = "https://wa.me/595962125194?text=%C2%A1Confieso%20que%20s%C3%AD%20estoy%20pensando%20en%20vos!%20%F0%9F%92%96";
             }, 2200);
         }
 
