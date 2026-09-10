@@ -76,8 +76,7 @@ HTML_CODE = """
             
             setTimeout(() => {
                 // Abre WhatsApp con el mensaje listo para enviarte
-                const mensaje = encodeURIComponent("¡Confieso que sí estoy pensando en vos! ❤️");
-                window.location.href = `https://wa.me/595962125194?text=${mensaje}`; 
+                window.location.href = "https://wa.me/595962125194?text=%C2%A1Confieso%20que%20s%C3%AD%20estoy%20pensando%20en%20vos!%20%F0%9F%92%96";
             }, 2200);
         }
 
